@@ -8,7 +8,6 @@ A procedurally generated space scene built with Three.js, featuring 10,000 glowi
 
 - 10,000 procedurally placed stars with soft glow effect
 - 100 asteroids with randomized size, shape, speed and direction
-- Vertex displacement for organic, irregular asteroid shapes
 - Rock texture support for realistic asteroid surfaces
 - Exponential fog for natural depth falloff
 - Directional lighting for 3D shading and shadow
