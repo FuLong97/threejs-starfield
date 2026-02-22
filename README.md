@@ -32,14 +32,10 @@ npx serve .
 threejs-starfield/
 ├── index.html
 ├── main.js
-├── asteroid-texture.jpg   # add your own rock texture here
+├── asteroid-texture.jpg   
 └── README.md
 ```
 
-## 🪨 Texture
-
-Place a rock/stone texture named `asteroid-texture.jpg` in the root folder.
-Free textures available at [ambientcg.com](https://ambientcg.com) — search for "Rock".
 
 ## 🛠️ Built With
 
